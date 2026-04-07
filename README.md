@@ -1,16 +1,28 @@
-## Hi there 👋
+# Aaditya Bhatnagar
 
-<!--
-**Aadi11z/Aadi11z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm a final-year CS undergrad at BITS Pilani, graduating in September 2026. I like to build stuff and solve problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+**Machine unlearning** — Selective forgetting for CLIP, fine-tuned on CIFAR-10.
+
+---
+
+### What I have worked on
+
+
+
+---
+
+### Stack
+
+`Python` `PyTorch` `C++` `FastAPI` `Docker` `NumPy` `scikit-learn`
+
+---
+
+### Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadi11z)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Aadi11z)
