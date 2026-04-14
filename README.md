@@ -7,15 +7,11 @@ Hey! I'm a final-year CS undergrad at BITS Pilani, graduating in September 2026.
 ### What I'm working on
 
 **Machine unlearning** — Selective forgetting for CLIP, fine-tuned on CIFAR-10.
-
+(needs updation)
 ---
 
 ### What I have worked on
-
-1) Facial Recognition with Drones (OpenCV)
-2) Emergency Response App (React/Expo)
-3) Robustness of NLP models (DistilBERT) to Adversarial datasets (ANLI) 
-
+(needs updation)
 ---
 
 ### Stack
